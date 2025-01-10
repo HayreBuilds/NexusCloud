@@ -9,3 +9,4 @@
 - [2025-01-09 15:46:00] Feature: Add integrated debugger interface mockup
 - [2025-01-09 21:43:00] Fix: Correct scroll synchronization in side-by-side diff view
 - [2025-01-10 13:32:00] Fix: Resolve race conditions in multi-tab state management
+- [2025-01-10 16:08:00] Feature: Implement global search with regex support
