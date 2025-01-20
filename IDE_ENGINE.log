@@ -19,3 +19,4 @@
 - [2025-01-19 16:04:00] Style: Update IDE theme to match premium branding
 - [2025-01-19 16:19:00] Refactor: Centralize hotkey registration and management
 - [2025-01-20 14:23:00] Fix: Resolve race conditions in multi-tab state management
+- [2025-01-20 20:40:00] Bugfix: Fix cursor drift in high-latency terminal sessions
