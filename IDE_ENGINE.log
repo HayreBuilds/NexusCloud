@@ -35,3 +35,4 @@
 - [2025-02-06 17:01:00] Fix: Resolve race conditions in multi-tab state management
 - [2025-02-06 20:03:00] Feat: Integrate WebContainers for server-side code execution
 - [2025-02-11 13:55:00] Feat: Implement virtual file system for browser-based storage
+- [2025-02-12 11:56:00] Feature: Implement global search with regex support
