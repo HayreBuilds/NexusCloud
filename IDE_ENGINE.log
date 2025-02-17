@@ -42,3 +42,4 @@
 - [2025-02-15 12:08:00] Feature: Add integrated debugger interface mockup
 - [2025-02-15 13:20:00] Feat: Implement virtual file system for browser-based storage
 - [2025-02-15 21:38:00] Fix: Correct scroll synchronization in side-by-side diff view
+- [2025-02-17 11:47:00] Bugfix: Fix cursor drift in high-latency terminal sessions
