@@ -44,3 +44,4 @@
 - [2025-02-15 21:38:00] Fix: Correct scroll synchronization in side-by-side diff view
 - [2025-02-17 11:47:00] Bugfix: Fix cursor drift in high-latency terminal sessions
 - [2025-02-17 21:48:00] Fix: Handle large directory structures gracefully
+- [2025-02-19 12:31:00] UI: Improve drag-and-drop experience for panel resizing
